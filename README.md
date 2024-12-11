@@ -7,7 +7,7 @@ We employ Latent Dirichlet Allocation (LDA) and Latent Semantic Analysis (LSA), 
 
 ## Methodology
 1. Data Collection
-   - Source: Google Play Store reviews for 8 e-commerce applications: Shopee, Tokopedia, Lazada, Blibli, Zalora, Bukalapak, Tokobagus, and Alibaba.
+   - Source: Google Play Store reviews for 8 e-commerce applications: Shopee, Tokopedia, Lazada, Blibli, Zalora, Bukalapak, OLX, and Alibaba.
    - Scraping Tool: Python library google_play_scraper was used to extract review text, ratings, and metadata (dates, usernames).
    - Total Data: 2388 reviews.
 2. Data Preprocessing
